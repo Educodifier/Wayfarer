@@ -1,0 +1,7 @@
+{
+  "name": "Moonlighter Sprite Controller",
+  "description": "Top-down pixel art dungeon crawler featuring an adventurer wearing a flowing burgundy hooded mantle with golden belt, glowing cyan eyes, 10HP enemies, green energy orb drops, 10-bar player health, healing, and sword/bow weapon upgrades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
